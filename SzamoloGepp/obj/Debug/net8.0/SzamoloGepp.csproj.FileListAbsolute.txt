@@ -1,0 +1,14 @@
+/Users/deep/Projects/SzamoloGepp/bin/Debug/net8.0/SzamoloGepp
+/Users/deep/Projects/SzamoloGepp/bin/Debug/net8.0/SzamoloGepp.deps.json
+/Users/deep/Projects/SzamoloGepp/bin/Debug/net8.0/SzamoloGepp.runtimeconfig.json
+/Users/deep/Projects/SzamoloGepp/bin/Debug/net8.0/SzamoloGepp.dll
+/Users/deep/Projects/SzamoloGepp/bin/Debug/net8.0/SzamoloGepp.pdb
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.AssemblyInfoInputs.cache
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.AssemblyInfo.cs
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.csproj.CoreCompileInputs.cache
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.dll
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/refint/SzamoloGepp.dll
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.pdb
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/SzamoloGepp.genruntimeconfig.cache
+/Users/deep/Projects/SzamoloGepp/obj/Debug/net8.0/ref/SzamoloGepp.dll
